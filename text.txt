@@ -1,0 +1,2 @@
+Here, we have created a file object named file1. 
+ This object can be used to work with files and directories. 
